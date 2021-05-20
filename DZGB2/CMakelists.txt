@@ -1,0 +1,3 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+PROJECT(ZADANIE1)
+add_executable(zadanie1 src/zadanie1.cpp)
